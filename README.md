@@ -12,9 +12,9 @@ $ pip2 install bs4
 
 ## download
 ```python
-$ git clone https://github.com/IndonesiaCyberXploid1/Run/
-$ cd Run
-$ python Run.py
+$ git clone https://github.com/IndonesiaCyberXploid1/SpamAsu/
+$ cd SpamAsu
+$ python SpamAsu.py
 ```
 
 ## fungsi
